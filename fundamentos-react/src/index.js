@@ -3,7 +3,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 
 import First from './components/firts'
-import withParameter from './components/withParameter'
+import withParameter from './components/WithParameter'
 
 ReactDOM.render(
     <div>
