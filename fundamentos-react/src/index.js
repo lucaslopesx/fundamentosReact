@@ -2,7 +2,7 @@ import './index.css'
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-import First from './components/firts'
+import First from './components/First'
 import withParameter from './components/WithParameter'
 
 ReactDOM.render(
