@@ -3,12 +3,12 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 
 import First from './components/First'
-import withParameter from './components/WithParameter'
+import WithParameter from './components/WithParameter'
 
 ReactDOM.render(
     <div>
     <First></First>,
-    <withParameter></withParameter>, 
+    <WithParameter></WithParameter>, 
     </div>,
     document.getElementById('root')  
 )
