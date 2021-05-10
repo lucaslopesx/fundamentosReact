@@ -2,13 +2,11 @@ import './index.css'
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-import First from './components/First'
-import WithParameter from './components/WithParameter'
+
+import App from './App.jsx'
+
 
 ReactDOM.render(
-    <div>
-    <First></First>,
-    <WithParameter></WithParameter>, 
-    </div>,
+    <App></App>,
     document.getElementById('root')  
 )
