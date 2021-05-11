@@ -1,8 +1,8 @@
 /* eslint-disable import/no-anonymous-default-export */
 import React from 'react'
 
-import '../../data/products'
-import products from '../../data/products'
+import '../data/products'
+import products from '../data/products'
 
 export default props => {
 
